@@ -13,7 +13,7 @@ The Scribble Maps plugin allows you to easily add custom maps to your blog utili
 
 This plugin will allow you to create Scribble Maps directly from your blog, it will also allow you embed maps created on ScribbleMaps.com.
 
-1. This plugin features to way to add scribble maps to your blog. The first is by click the Scribble Maps logo in the blog editor tool bar and inputing
+1. This plugin features two ways to add scribble maps to your blog. The first is by click the Scribble Maps logo in the blog editor tool bar and inputing
 the Map ID you got when saving a map on ScribbleMaps.com
 
 2. In the admin tool bar click "Create New Scribble Map" under Scribble Map. Create your map and click Menu > Save. Once the map is saved you can use the Map ID and embed
@@ -31,6 +31,8 @@ This section describes how to install the plugin and get it working.
 
 1. Map Creation Screen
 2. Map Embed Screen
+3. Kitchen Sink Icon
+4. Popup Embed from dashboard
 
 == Changelog ==
 
