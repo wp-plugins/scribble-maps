@@ -1,0 +1,32 @@
+
+.create-button{
+    
+}
+.create-button a{
+}
+#ScribbleMap{
+   width:600px;
+    height: 500px;
+	float: left;
+}
+#popup{
+    width:100%;
+    position: relative;
+}
+
+#popup #instructions {
+	width: 200px;
+	float: left;
+	padding-left: 10px;
+}
+
+.message{
+    border: 2px solid #027ac6;
+    float: left;
+	display: none;
+    list-style: none outside none;
+    margin: 10px 4px;
+    text-align: center;
+    background-color: #ffffff;    
+    font-weight: bold;
+}
