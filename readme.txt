@@ -19,7 +19,7 @@ the Map ID you got when saving a map on ScribbleMaps.com
 2. In the admin tool bar click "Create New Scribble Map" under Scribble Map. Create your map and click Menu > Save. Once the map is saved you can use the Map ID and embed
 with the above process or alternatively you can click "Scribble Map" which will show a list of your saved maps with their associated ShortCodes.
 
-**Important Note:** This plugin will only work with a self-hosted wordpress site. If you would like to use Scribble Maps on a hosted wordpress site please submit your request to them [here](https://en.forums.wordpress.com/forum/ideas “Submit idea for Scribble Maps Short Code”).
+**Important Note:** This plugin will only work with a self-hosted wordpress site. If you would like to use Scribble Maps on a hosted wordpress site please submit your request to them [here](https://en.forums.wordpress.com/forum/ideas).
 
 
 == Installation ==
